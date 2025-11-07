@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kutay</h1>
 
 <p align="center">
-  <a href="https://seninsiten.com" target="_blank">qtway.com</a>
+  <a href="https://qtway.com" target="_blank">qtway.com</a>
 </p>
 
 <p align="center">
