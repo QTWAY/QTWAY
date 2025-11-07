@@ -50,9 +50,6 @@
   <a href="https://www.instagram.com/qtwa_y/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-  <a href="https://www.twitch.tv/qtwa_y" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitch" height="40" />
-  </a>
   <a href="https://kick.com/qtwa_y" target="_blank">
     <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" height="40" />
   </a>
