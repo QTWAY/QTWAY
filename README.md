@@ -1,4 +1,4 @@
-<img width="507" height="345" alt="image" src="https://github.com/user-attachments/assets/fb3792c2-31e5-46be-87b9-c35d73263c2f" /><h1 align="center">Hi 👋, I'm Kutay</h1>
+<h1 align="center">Hi 👋, I'm Kutay</h1>
 
 <p align="center">
   <a href="https://seninsiten.com" target="_blank">qtway.com</a>
@@ -33,7 +33,7 @@
 
 ### 😄 About Me
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="100" style="border-radius:50%">
+  <img width="507" height="345" alt="image" src="https://github.com/user-attachments/assets/fb3792c2-31e5-46be-87b9-c35d73263c2f" width="100" style="border-radius:50%" /> 
 </p>
 
 <p align="center">
