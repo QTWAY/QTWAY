@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kutay</h1>
 
 <p align="center">
-  <a href="https://qtway.com" target="_blank">qtway.com</a>
+  <a href="https://seninsiten.com" target="_blank">seninsiten.com</a>
 </p>
 
 <p align="center">
@@ -33,11 +33,35 @@
 
 ### 😄 About Me
 <p align="center">
-  <img width="507" height="345" alt="image" src="https://github.com/user-attachments/assets/fb3792c2-31e5-46be-87b9-c35d73263c2f" width="100" style="border-radius:50%" /> 
+  <img width="507" height="345" alt="image" src="https://github.com/user-attachments/assets/fb3792c2-31e5-46be-87b9-c35d73263c2f" style="border-radius:50" /> 
 </p>
 
 <p align="center">
   I'm not currently doing anything!
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.youtube.com/@qtwa_y" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" />
+  </a>
+  <a href="https://www.instagram.com/qtwa_y/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://www.twitch.tv/qtwa_y" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitch" height="40" />
+  </a>
+  <a href="https://kick.com/qtwa_y" target="_blank">
+    <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" height="40" />
+  </a>
+  <a href="https://x.com/qtwa_y" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://discord.gg/9daXesdFwg" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
 </p>
 
 ---
