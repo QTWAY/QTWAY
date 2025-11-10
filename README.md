@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1243135709188194314/1437478992809562162/qtway.png?ex=69136422&is=691212a2&hm=bbdd0377ac71af5ad53e8f21d846d3d9e5fb252362cb923f1b27e9f96e73126c&=&format=webp&quality=lossless&width=1500&height=500" alt="banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kutay</h1>
 
 <p align="center">
