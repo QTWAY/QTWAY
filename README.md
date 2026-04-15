@@ -1,6 +1,6 @@
 # Merhaba, ben Kutay 👋
 
-🎓 Kayseri Üniversitesi — Elektrik-Elektronik Mühendisliği (2026 Mezunu)  
+🎓 Kayseri Üniversitesi — Elektrik-Elektronik Mühendisliği
 📍 Konya, Türkiye  
 📬 ekutayg@gmail.com
 
