@@ -7,7 +7,7 @@ Electrical-Electronics Engineering Student · Software · Automation · IoT
 <p align="center">
   I build practical solutions at the intersection of software, electronics, and automation.
   <br />
-  Founder of <a href="https://qtway.com.tr">QTWAY</a> — building ideas into things that matter.
+  Founder of <a href="https://kutaygokduman.com.tr">Kutay Gökduman</a> — building ideas into things that matter.
 </p>
 
 <p align="center">
@@ -90,8 +90,8 @@ My personal brand and ongoing collection of software, engineering, and digital p
 
 I'm open to discussing engineering projects, software development, automation, and meaningful collaborations.
 
-- **Email:** [qkutayg@gmail.com](mailto:ekutayg@gmail.com)
-- **Website:** [qtway.com.tr](https://kutaygokduman.com.tr)
+- **Email:** [ekutayg@gmail.com](mailto:ekutayg@gmail.com)
+- **Website:** [kutaygokduman.com.tr](https://kutaygokduman.com.tr)
 - **LinkedIn:** [Kutay Gökduman](https://www.linkedin.com/in/kutayg%C3%B6kduman)
 
 ---
