@@ -11,9 +11,9 @@ Electrical-Electronics Engineering Student · Software · Automation · IoT
 </p>
 
 <p align="center">
-  <a href="https://qtway.com.tr">Website</a> ·
+  <a href="https://kutaygokduman.com.tr">Website</a> ·
   <a href="https://www.linkedin.com/in/kutayg%C3%B6kduman">LinkedIn</a> ·
-  <a href="mailto:qkutayg@gmail.com">Email</a>
+  <a href="mailto:ekutayg@gmail.com">Email</a>
 </p>
 
 ---
@@ -90,8 +90,8 @@ My personal brand and ongoing collection of software, engineering, and digital p
 
 I'm open to discussing engineering projects, software development, automation, and meaningful collaborations.
 
-- **Email:** [qkutayg@gmail.com](mailto:qkutayg@gmail.com)
-- **Website:** [qtway.com.tr](https://qtway.com.tr)
+- **Email:** [qkutayg@gmail.com](mailto:ekutayg@gmail.com)
+- **Website:** [qtway.com.tr](https://kutaygokduman.com.tr)
 - **LinkedIn:** [Kutay Gökduman](https://www.linkedin.com/in/kutayg%C3%B6kduman)
 
 ---
